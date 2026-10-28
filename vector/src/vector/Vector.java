@@ -31,6 +31,7 @@ public class Vector {
             text=text+(j)+" -"+cod[i]+" -" +name[i]+" -"+not[i]+"\n";
         }
         JOptionPane.showMessageDialog(null, text);
+        
     }
     
 }
